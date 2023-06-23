@@ -1,0 +1,277 @@
+@charset "utf-8";
+* {
+    margin: 0px;
+    padding: 0px;
+}
+.Header {
+    width: 100%;
+    height: 780px;
+    background-image: url(Infos/Page%20cover_.png);
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    padding-top: 75px;
+}
+.Nav_box {
+    width: 83%;
+    height: 81px;
+    display: Flex;
+    margin-left: 184px;
+}
+.Nav_button1 {
+    width: 263px;
+    height: 80px;
+    margin-left: 75px;
+    background-size: 88% auto;
+    background-repeat: no-repeat;
+}
+.Nav_box .Nav_button1 a {
+    background-image: url(Button/btton%20portfolio.png);
+    width: 217px;
+    height: 87px;
+    position: absolute;
+    background-size: 100% auto;
+}
+.Nav_box .Nav_button1 a:hover  {
+    background-image: url(Button/btton%20portfolio.png);
+    width: 222px;
+    height: 90px;
+    position: absolute;
+    background-size: 100% auto;
+}
+
+.Nav_button2 {
+    width: 263px;
+    height: 80px;
+    margin-left: 75px;
+    background-size: 88% auto;
+    background-repeat: no-repeat;
+}
+.Nav_box .Nav_button2 a {
+    width: 217px;
+    height: 87px;
+    position: absolute;
+    background-image: url(Button/button%20homepage.png);
+    background-size: 100% auto;
+}
+.Nav_box .Nav_button2 a:hover  {
+    width: 222px;
+    height: 90px;
+    position: absolute;
+    background-image: url(Button/button%20homepage.png);
+    background-size: 100% auto;
+}
+
+.Nav_button3 {
+    width: 263px;
+    height: 80px;
+    margin-left: 75px;
+    background-size: 88% auto;
+    background-repeat: no-repeat;
+}
+.Nav_box .Nav_button3 a {
+    width: 217px;
+    height: 87px;
+    position: absolute;
+    background-image: url(Button/button%20art%20commission.png);
+    background-size: 100% auto;
+}
+.Nav_box .Nav_button3 a:hover  {
+    width: 222px;
+    height: 90px;
+    position: absolute;
+    background-image: url(Button/button%20art%20commission.png);
+    background-size: 100% auto;
+}
+.Content_area {
+    width: 81%;
+    min-width: 0px;
+    height: 600px;
+    margin-left: 163px;
+    display: flex;
+}
+
+.Content_area4 {
+    width: 81%;
+    min-width: 0px;
+    height: 400px;
+    margin-left: 163px;
+    display: flex;
+}
+.Content_area4 iframe {
+    height: 600px;
+    width: 100%;
+}
+
+.LeftContent {
+    width: 66%;
+    height: 500px;
+}
+.LeftContent .Title {
+    max-width: none;
+    height: 73px;
+    width: 100%;
+}
+.LeftContent p {
+    width: 100%;
+    height: 276px;
+    color: hsla(0,0%,0%,1.00);
+    font-family: "SF Cartoonist Hand";
+    font-size: 35px;
+    text-shadow: 1px 1px hsla(0,0%,100%,1.00);
+    background-image: url(url);
+    background-color: hsla(120,11%,56%,0.75);
+}
+.RightContent {
+    width: 50%;
+    height: 500px;
+}
+.RightContent .Profilepic {
+    width: 90%;
+    height: 400px;
+    background-size: 87% auto;
+}
+.RightContent .Button4 {
+    width: 100%;
+    height: 101px;
+    background-repeat: no-repeat;
+    background-size: 77% auto;
+}
+.RightContent .Button4 a {
+    width: 30%;
+    height: 120px;
+    position: absolute;
+    background-image: url(Button/button%20Term%20of%20servis.png);
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+}
+.RightContent .Button4 a:hover  {
+    width: 35%;
+    height: 171px;
+    position: absolute;
+    background-image: url(Button/button%20Term%20of%20servis.png);
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+}
+.Footer {
+    width: 100%;
+    height: 300px;
+    text-shadow: 0px 0px;
+    background-color: hsla(101,65%,76%,1.00);
+}
+
+.Footer_container {
+    width: 76%;
+    height: 241px;
+    display: Flex;
+    padding-top: 26px;
+    margin-left: 284px;
+}
+.FooterContent1 {
+    max-width: none;
+    width: 17%;
+    height: 200px;
+    margin-right: 53px;
+    margin-left: 47px;
+}
+.FooterContent1 h4 {
+    color: hsla(0,0%,0%,1.00);
+    font-family: "SF Cartoonist Hand";
+    text-align: center;
+    font-size: x-large;
+}
+.FooterContent1 p {
+    font-family: "SF Cartoonist Hand";
+    color: hsla(0,0%,0%,1.00);
+    text-align: center;
+    font-size: 24px;
+}
+.Footer_container .FooterContent1 h4 {
+}
+.FooterContent2 h4 {
+    color: hsla(0,0%,0%,1.00);
+    font-family: "SF Cartoonist Hand";
+    font-size: x-large;
+    text-align: center;
+}
+.FooterContent2 .Contact.info {
+    width: 100%;
+    min-width: 0px;
+    height: 220px;
+    background-image: url(Infos/Contact.png);
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+}
+.Header .Contentarea3 {
+    width: 70%;
+    height: 652px;
+    background-color: hsla(86,100%,84%,0.71);
+    margin-left: 200px;
+}
+.Header .Contentarea2 {
+    width: 70%;
+    height: 652px;
+    background-color: hsla(86,100%,84%,0.71);
+    margin-left: 200px;
+    display: flex;
+}
+.Header .Contentarea3 h4 {
+    text-align: center;
+    color: hsla(0,0%,0%,1.00);
+    font-family: "SF Cartoonist Hand";
+    font-size: 24px;
+    padding-top: 10px;
+}
+.Contentarea3 .TncArea {
+    width: 100%;
+    height: 559px;
+    display: flex;
+}
+.Contentarea2 .cmArea {
+    width: 100%;
+    height: 559px;
+    display: flex;
+}
+.TncArea .lefttncside {
+    width: 50%;
+    height: 600px;
+    background-image: url(Infos/png%20policy.png);
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+}
+.lefttcmside  {
+    width: 50%;
+    height: 400px;
+    background-image: url(art%20commission/set%20a.png);
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    margin-top: 68px;
+    margin-right: 59px;
+}
+.rightcmcside {
+    width: 50%;
+    height: 500px;
+    background-image: url(art%20commission/set%20b.png);
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+}
+
+.TncArea .righttncside {
+    width: 50%;
+    height: 400px;
+    background-image: url(Infos/png%20terms%20of%20use.png);
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+}
+.cmArea .lefttcmside p {
+    margin-top: 425px;
+    font-family: "SF Cartoonist Hand";
+    font-size: 24px;
+    text-align: center;
+}
+.cmArea .rightcmcside p {
+    margin-top: 500px;
+    color: hsla(0,0%,0%,1.00);
+    font-family: "SF Cartoonist Hand";
+    font-size: 24px;
+    text-align: center;
+}
